@@ -1,0 +1,13 @@
+C:\Users\licSistemas\Desktop\practicas\practica5\practica5\bin\Debug\practica5.exe.config
+C:\Users\licSistemas\Desktop\practicas\practica5\practica5\bin\Debug\practica5.exe
+C:\Users\licSistemas\Desktop\practicas\practica5\practica5\bin\Debug\practica5.pdb
+C:\Users\licSistemas\Desktop\practicas\practica5\practica5\obj\Debug\practica5.csprojResolveAssemblyReference.cache
+C:\Users\licSistemas\Desktop\practicas\practica5\practica5\obj\Debug\practica5.exe
+C:\Users\licSistemas\Desktop\practicas\practica5\practica5\obj\Debug\practica5.pdb
+C:\Users\nesto\OneDrive\Escritorio\practicas\practica5\practica5\obj\Debug\practica5.csprojAssemblyReference.cache
+C:\Users\nesto\OneDrive\Escritorio\practicas\practica5\practica5\obj\Debug\practica5.csproj.CoreCompileInputs.cache
+C:\Users\nesto\OneDrive\Escritorio\practicas\practica5\practica5\obj\Debug\practica5.exe
+C:\Users\nesto\OneDrive\Escritorio\practicas\practica5\practica5\obj\Debug\practica5.pdb
+C:\Users\nesto\OneDrive\Escritorio\practicas\practica5\practica5\bin\Debug\practica5.exe.config
+C:\Users\nesto\OneDrive\Escritorio\practicas\practica5\practica5\bin\Debug\practica5.exe
+C:\Users\nesto\OneDrive\Escritorio\practicas\practica5\practica5\bin\Debug\practica5.pdb
